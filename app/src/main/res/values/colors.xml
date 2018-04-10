@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#c0ca33</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#2F1D1A</color>
+
+    <!-- Background color for app -->
+    <color name="app_background">#fafafa</color>
+
+    <!-- Background color for the shopping category -->
+    <color name="category_shopping">#ff80ab</color>
+
+    <!-- Background color for the Waterfalls category -->
+    <color name="category_waterfalls">#9ce2f2</color>
+
+    <!-- Background color for the Coast category -->
+    <color name="category_coast">#006994</color>
+
+    <!-- Background color for the Day Tour category -->
+    <color name="category_daytour">#fbc02d</color>
+</resources>

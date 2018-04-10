@@ -1,0 +1,68 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">OR Tour Guide</string>
+
+    <!-- Category name for Shopping [CHAR LIMIT=20] -->
+    <string name="category_shopping">Shopping</string>
+
+    <!-- Shopping List and Description -->
+    <string name="s1">Bridgeport Village</string>
+    <string name="s1_desc">Located in Tualatin. Cinemas and Restaurants</string>
+    <string name="s2">Clackamas Town Center</string>
+    <string name="s2_desc">Located in Clackamas. Cinemas and Shopping</string>
+    <string name="s3">Lloyd Center</string>
+    <string name="s3_desc">Located in Downtown Portland. Three levels of Shopping
+        with Cinema across</string>
+    <string name="s4">Pioneer Place</string>
+    <string name="s4_desc">Located in Downtown Portland. Upscale, Urban Mall.</string>
+    <string name="s5">The Streets of Tanasbourne</string>
+    <string name="s5_desc">Located in Hillsboro. Open-air complex</string>
+    <string name="s6">Washington Square</string>
+    <string name="s6_desc">Located in Tigard. Top Grossing mall</string>
+    <string name="s7">Woodburn Premium Outlets</string>
+    <string name="s7_desc">Located in Woodburn. Open-air Outlet Shopping</string>
+
+    <!-- Category name for WaterFalls [CHAR LIMIT=20] -->
+    <string name="category_waterfalls">Waterfalls</string>
+
+    <!-- Waterfalls List and Description -->
+    <string name="w1">Multnomah Falls</string>
+    <string name="w1_desc">Located in Columbia River Gorge with 627 ft Elevation</string>
+    <string name="w2">Oneonta Falls</string>
+    <string name="w2_desc">Located in Gorge. Unique for its river walk hike</string>
+    <string name="w3">Silver Falls</string>
+    <string name="w3_desc">State Park with more than 15 falls</string>
+    <string name="w4">Toketee Falls</string>
+    <string name="w4_desc">Located in Umpqua Forest. Visible after a mile hike</string>
+    <string name="w5">Watson Falls</string>
+    <string name="w5_desc">Located in Umpqua National Forest. 272 ft Waterfall</string>
+
+    <!-- Category name for Coast [CHAR LIMIT=20] -->
+    <string name="category_coast">Coast</string>
+
+    <!-- Category List and Description -->
+    <string name="c1">Astoria Column</string>
+    <string name="c1_desc">125 foot tall tower on top of 600 foot Coxcomb Hill in Astoria</string>
+    <string name="c2">Cape Perpetua</string>
+    <string name="c2_desc">Typical Pacific NW headland rises about 800 ft from Sea level</string>
+    <string name="c3">Canon Beach</string>
+    <string name="c3_desc">Haystack Rocks stand tall across the shore</string>
+    <string name="c4">Cape Blanco Lighthouse</string>
+    <string name="c4_desc">Southernmost Light House with excellent ocean view</string>
+
+
+    <!-- Category name for Daytour [CHAR LIMIT=20] -->
+    <string name="category_daytour">Daytour</string>
+
+    <!-- Daytour List and Description -->
+    <string name="d1">Columbia Gorge</string>
+    <string name="d1_desc">National Scenic Area streches for 80 miles.</string>
+    <string name="d2">Crater Lake</string>
+    <string name="d2_desc">Caldera Lake famous for Deep Blue Color and water clarity</string>
+    <string name="d3">Mount Hood</string>
+    <string name="d3_desc">Landmark mountain and highest point in Oregon</string>
+    <string name="d4">Painted Hills</string>
+    <string name="d4_desc">Colorful layers of hills corresponding to various
+        geographical eras</string>
+
+</resources>
